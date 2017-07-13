@@ -1,13 +1,16 @@
 This is the practice of entity recognization based on context-BoW + LR/DNN/CNN methods.
+
 Please read the notes.pdf under 'notes' folder for more details.
 
 ### Test Data Result
 You can find the core terms and brand prediction for test data at 'result/test_data_result.txt'.
 
 ### Dependency
+```
 sudo pip install -U scikit-learn
 sudo pip install theano
 sudo pip install keras
+```
 
 ### Model Download
 Please download the model files as follows and put these files into 'model' folder before you run model prediction program.
