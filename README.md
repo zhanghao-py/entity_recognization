@@ -1,4 +1,5 @@
-This is the practice of entity recognization based on context-BoW + LR/DNN/CNN methods. Please read the notes.pdf under 'notes' folder for more details.
+This is the practice of entity recognization based on context-BoW + LR/DNN/CNN methods.
+Please read the notes.pdf under 'notes' folder for more details.
 
 ### Test Data Result
 You can find the core terms and brand prediction for test data at 'result/test_data_result.txt'.
