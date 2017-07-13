@@ -13,6 +13,7 @@ sudo pip install keras
 Please download the model files and put these files into 'model' folder before you run model prediction program.
 
 core_term_dnn.model: https://drive.google.com/open?id=0B3mPA5jcECZTa0VQRXBwM2RmU3c
+
 brand_dnn.model: https://drive.google.com/open?id=0B3mPA5jcECZTLTA1YTNMbWtqNjA
 
 ### Model Prediction
